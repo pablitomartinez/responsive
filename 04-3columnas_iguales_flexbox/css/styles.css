@@ -39,3 +39,10 @@ h1 {
 }
 
 /** CODIGO AQUI **/
+@media (min-width: 768px) {
+    
+    .tres-columunas{
+        display: flex;
+        gap: 2rem;
+    }
+}
